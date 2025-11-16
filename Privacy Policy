@@ -1,0 +1,63 @@
+# Privacy Policy
+Last updated: November 16th 2025
+
+## 1. Overview
+ChatGPT Enter Key Remap is a lightweight Chrome extension that modifies the keyboard behavior on the ChatGPT website.
+The extension does not collect, store, transmit, or share any personal data.
+
+Your privacy is fully respected, and no information ever leaves your browser.
+
+## 2. Information We Collect
+We do not collect any information.
+Specifically:
+No personal data
+No browsing history
+No keystrokes
+No session data
+No content from ChatGPT conversations
+No analytics
+No identifiers
+No telemetry of any kind
+
+Zero collection. Zero storage. Zero transmission.
+
+## 3. Permissions
+The extension requires access to:
+https://chatgpt.com/*
+This is required solely to run the content script that remaps the Enter and Shift+Enter keys inside ChatGPT’s message editor.
+
+The extension is intentionally limited to this domain so it cannot run on any other website or affect the user’s browser elsewhere.
+
+It does not have access to, nor does it attempt to read, modify, or monitor any user data.
+
+## 4. How the Extension Works
+The extension performs only one function:
+Changing the keyboard behavior inside ChatGPT’s input box (Enter → newline, Ctrl+Enter → send)
+
+The logic runs entirely on your machine.
+Nothing is processed or transmitted to any external servers.
+
+## 5. Third-Party Services
+The extension does not use or integrate with:
+Advertising networks
+Analytics platforms
+Cloud services
+Third-party APIs
+External servers
+
+You interact solely with your own browser and the ChatGPT site.
+
+## 6. Data Sharing
+Because no data is collected, no data can be shared.
+We do not share, sell, or disclose anything to any third party.
+
+## 7. Children’s Privacy
+The extension does not target or collect data from anyone, including children under 13.
+
+## 8. Changes to This Policy
+Any future changes to this policy will be updated on this page.
+Since no data is collected, changes are expected to be minimal.
+
+## 9. Contact
+If you have any questions about this privacy policy, you can contact the developer at:
+https://github.com/GlynDavidson1
